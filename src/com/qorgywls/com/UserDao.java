@@ -11,7 +11,11 @@ public class UserDao {
 		System.out.print("iss53");
 		
 
+<<<<<<< HEAD
 		System.out.print("Hello main");
+=======
+		System.out.print("Hello");
+>>>>>>> iss54
 
 	}
 }
