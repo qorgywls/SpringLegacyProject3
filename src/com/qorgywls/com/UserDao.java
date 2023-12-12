@@ -2,7 +2,7 @@ package com.qorgywls.com;
 
 public class UserDao {
 	public static void world() {
-		System.out.println("world method");
+		System.out.println("word method");
 	}
 	public static void hello() {
 		System.out.println("hello method");
