@@ -8,14 +8,12 @@ public class UserDao {
 		System.out.println("hello method");
 	}
 	public static void main(String[] args) {
-		System.out.print("iss53");
+		System.out.print("iss54");
 		
 
-<<<<<<< HEAD
+
 		System.out.print("Hello main");
-=======
-		System.out.print("Hello");
->>>>>>> iss54
+
 
 	}
 }
